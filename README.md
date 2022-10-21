@@ -2,7 +2,7 @@
 Private 3D modeling portfolio project which results in the creation of a customised personal human 3D figuring. The figure can be painted for more definition
 
 <p align="center">
-  <img width="400" height="300" src="https://user-images.githubusercontent.com/101813855/197229731-27608e89-d322-4502-9f38-7303b406dc42.png">
+  <src="https://user-images.githubusercontent.com/101813855/197229731-27608e89-d322-4502-9f38-7303b406dc42.png">
 </p>
 
 ![SimulationEugene1](https://user-images.githubusercontent.com/101813855/197229731-27608e89-d322-4502-9f38-7303b406dc42.png)
