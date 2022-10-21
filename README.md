@@ -5,7 +5,7 @@ Private 3D modeling portfolio project which results in the creation of a customi
   <img src="https://user-images.githubusercontent.com/101813855/197229731-27608e89-d322-4502-9f38-7303b406dc42.png">
 </p>
 
-![SimulationEugene1](https://user-images.githubusercontent.com/101813855/197229731-27608e89-d322-4502-9f38-7303b406dc42.png)
+
 
 ## First Trial🧐
 ![eugenetrial1front](https://user-images.githubusercontent.com/101813855/197229414-e37875c3-1780-4196-a81c-2197f70232f0.jpg)
