@@ -2,7 +2,7 @@
 Private 3D modeling portfolio project which results in the creation of a customised personal human 3D figuring. The figure can be painted for more definition
 
 <p align="center">
-  <src="https://user-images.githubusercontent.com/101813855/197229731-27608e89-d322-4502-9f38-7303b406dc42.png">
+  <img src="https://user-images.githubusercontent.com/101813855/197229731-27608e89-d322-4502-9f38-7303b406dc42.png">
 </p>
 
 ![SimulationEugene1](https://user-images.githubusercontent.com/101813855/197229731-27608e89-d322-4502-9f38-7303b406dc42.png)
@@ -30,6 +30,7 @@ Private 3D modeling portfolio project which results in the creation of a customi
 ## 💻Software
 ## PolyCam
 > Polycam is the leading 3D capture application for iPhone and iPad! Create high-quality 3D models from photos with any iPhone or iPad, and rapidly generate scans of spaces with the LiDAR sensor. Edit your 3D captures directly on device, and export them in over a dozen file formats.
+![Polycameeug](https://user-images.githubusercontent.com/101813855/197234333-9ba56f4c-5334-481f-9f68-c7fc76295581.jpg)
 
 ### Fusion 360
 > Fusion 360 is a commercial computer-aided design, computer-aided manufacturing, computer-aided engineering and printed circuit board design software application, developed by Autodesk. It is available for Windows and macOS, with simplified applications available for Android and iOS
