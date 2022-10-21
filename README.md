@@ -2,7 +2,7 @@
 Private 3D modeling portfolio project which results in the creation of a customised personal human 3D figuring. The figure can be painted for more definition
 
 <p align="center">
-  <img width="460" height="660" src="https://user-images.githubusercontent.com/101813855/197229731-27608e89-d322-4502-9f38-7303b406dc42.png">
+  <img width="400" height="300" src="https://user-images.githubusercontent.com/101813855/197229731-27608e89-d322-4502-9f38-7303b406dc42.png">
 </p>
 
 ![SimulationEugene1](https://user-images.githubusercontent.com/101813855/197229731-27608e89-d322-4502-9f38-7303b406dc42.png)
@@ -44,3 +44,8 @@ Private 3D modeling portfolio project which results in the creation of a customi
 ## 🙇 Special Thanks
 - [Eugene Tan] (https://www.linkedin.com/in/tqreugene/) for letting me use his face and body as a template model
 - [Jade Hulzenboom] (https://www.linkedin.com/in/jade-hulzenboom/) for assisting with the rendering techniques of fusion 360 and mesh fixing.
+
+## Alignment Help Received
+```
+https://gist.githubusercontent.com/DavidWells/7d2e0e1bc78f4ac59a123ddf8b74932d/raw/0482e76b591829e5d43a8a4f91df843c9c8e0d56/aligning-images.md
+```
