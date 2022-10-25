@@ -1,5 +1,5 @@
 # 3DHumanModeling
-Private 3D modeling portfolio project which results in the creation of a customised personal human 3D figuring. The figure can be painted for more definition
+Private 3D modeling portfolio project which results in the creation of a customised personal human 3D figurine. The figure can be painted for more definition
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/101813855/197229731-27608e89-d322-4502-9f38-7303b406dc42.png">
@@ -8,13 +8,15 @@ Private 3D modeling portfolio project which results in the creation of a customi
 
 
 ## First Trial🧐
-![eugenetrial1front](https://user-images.githubusercontent.com/101813855/197229414-e37875c3-1780-4196-a81c-2197f70232f0.jpg)
-![eugenetrial1](https://user-images.githubusercontent.com/101813855/197229425-526149bf-539f-421c-9262-0447e343c072.jpg)
-
+<p align="center">
+  ![eugenetrial1front](https://user-images.githubusercontent.com/101813855/197229414-e37875c3-1780-4196-a81c-2197f70232f0.jpg)
+  ![eugenetrial1](https://user-images.githubusercontent.com/101813855/197229425-526149bf-539f-421c-9262-0447e343c072.jpg)
+</p>
 ## Final Result 🚀
-![eugeneprint2flatview](https://user-images.githubusercontent.com/101813855/197229797-88cb4db4-668a-4fd4-bac8-3830b32d0c26.jpg)
-![eugeneprint2](https://user-images.githubusercontent.com/101813855/197227789-add82166-a242-4893-b900-237b42b1e613.jpg)
-
+<p align="center">
+  ![eugeneprint2flatview](https://user-images.githubusercontent.com/101813855/197229797-88cb4db4-668a-4fd4-bac8-3830b32d0c26.jpg)
+  ![eugeneprint2](https://user-images.githubusercontent.com/101813855/197227789-add82166-a242-4893-b900-237b42b1e613.jpg)
+</p>
 ## 🛠️Work Flow
 - [x] Capture 3D model 
 - [x] Clean Mesh and create 3D platform
@@ -29,6 +31,12 @@ Private 3D modeling portfolio project which results in the creation of a customi
 - Print out mesh on a 3D printer with Fused Deposition Modeling technology
 - Document the process and share the results.
 
+### ⚠️ Disclaimer
+```
+This project was done in my home in Singapore where the Average Humidity:65% and Temperature:30°C
+Settings used are from all 3dp, Stringing still occurs possible due to wet and old filament.
+https://all3dp.com/2/ender-3-pro-v2-retraction-settings-all-you-need-to-know/
+```
 ## 💻Software
 
 ### PolyCam
