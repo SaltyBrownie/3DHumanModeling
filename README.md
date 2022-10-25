@@ -6,29 +6,20 @@ Private 3D modeling portfolio project which results in the creation of a customi
 </p>
 
 
-
-## First Trial🧐
-<p align="center">
-  ![eugenetrial1front](https://user-images.githubusercontent.com/101813855/197229414-e37875c3-1780-4196-a81c-2197f70232f0.jpg)
-  ![eugenetrial1](https://user-images.githubusercontent.com/101813855/197229425-526149bf-539f-421c-9262-0447e343c072.jpg)
-</p>
-## Final Result 🚀
-<p align="center">
-  ![eugeneprint2flatview](https://user-images.githubusercontent.com/101813855/197229797-88cb4db4-668a-4fd4-bac8-3830b32d0c26.jpg)
-  ![eugeneprint2](https://user-images.githubusercontent.com/101813855/197227789-add82166-a242-4893-b900-237b42b1e613.jpg)
-</p>
 ## 🛠️Work Flow
 - [x] Capture 3D model 
 - [x] Clean Mesh and create 3D platform
 - [x] Print 3D model
 - [x] Post processing for aestethic look
+### To Do 🖌️ 🎥
 - [ ] Paint for improved realism [Acrylic or Airbrush]
-- [ ] > https://all3dp.com/2/beginner-s-guide-to-painting-3d-prints-pla-abs/
+https://all3dp.com/2/beginner-s-guide-to-painting-3d-prints-pla-abs/
 - [ ] Improve 3D scan model by using LIDAR sensor or higher mega pixel Camera.
 
 ## Objective 📝
 - Create a 3D model of a human with at least 80% similarity
 - Print out mesh on a 3D printer with Fused Deposition Modeling technology
+- Showcase the AR model Potential of a customised human scanning
 - Document the process and share the results.
 
 ### ⚠️ Disclaimer
@@ -37,6 +28,16 @@ This project was done in my home in Singapore where the Average Humidity:65% and
 Settings used are from all 3dp, Stringing still occurs possible due to wet and old filament.
 https://all3dp.com/2/ender-3-pro-v2-retraction-settings-all-you-need-to-know/
 ```
+## First Trial🧐
+
+  ![eugenetrial1front](https://user-images.githubusercontent.com/101813855/197229414-e37875c3-1780-4196-a81c-2197f70232f0.jpg)
+  ![eugenetrial1](https://user-images.githubusercontent.com/101813855/197229425-526149bf-539f-421c-9262-0447e343c072.jpg)
+
+## Final Result 🚀
+
+  ![eugeneprint2flatview](https://user-images.githubusercontent.com/101813855/197229797-88cb4db4-668a-4fd4-bac8-3830b32d0c26.jpg)
+  ![eugeneprint2](https://user-images.githubusercontent.com/101813855/197227789-add82166-a242-4893-b900-237b42b1e613.jpg)
+  
 ## 💻Software
 
 ### PolyCam
