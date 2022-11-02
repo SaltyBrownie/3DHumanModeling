@@ -4,7 +4,7 @@ Private 3D modeling portfolio project which results in the creation of a customi
 <p align="center">
   <img src="https://user-images.githubusercontent.com/101813855/197229731-27608e89-d322-4502-9f38-7303b406dc42.png">
 </p>
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/101813855/199402883-e73f9975-c6e8-4d64-829b-3ec28f2f16d9.gif)
+![](https://user-images.githubusercontent.com/101813855/199402883-e73f9975-c6e8-4d64-829b-3ec28f2f16d9.gif)
 
 
 ## 🛠️Work Flow
