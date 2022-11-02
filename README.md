@@ -4,7 +4,7 @@ Private 3D modeling portfolio project which results in the creation of a customi
 <p align="center">
   <img src="https://user-images.githubusercontent.com/101813855/197229731-27608e89-d322-4502-9f38-7303b406dc42.png">
 </p>
-![](https://user-images.githubusercontent.com/101813855/199402883-e73f9975-c6e8-4d64-829b-3ec28f2f16d9.gif)
+![Demonstration](https://github.com/SaltyBrownie/3DHumanModeling/blob/main/Raw_Scan/Gif1.gif)
 
 
 ## 🛠️Work Flow
@@ -14,7 +14,9 @@ Private 3D modeling portfolio project which results in the creation of a customi
 - [x] Post processing for aestethic look
 ### To Do 🖌️ 🎥
 - [ ] Paint for improved realism [Acrylic or Airbrush]
+```
 https://all3dp.com/2/beginner-s-guide-to-painting-3d-prints-pla-abs/
+```
 - [ ] Improve 3D scan model by using LIDAR sensor or higher mega pixel Camera.
 
 ## Objective 📝
@@ -53,11 +55,12 @@ The Free Trial Version of the software was used.
 ### Fusion 360
 > Fusion 360 is a commercial computer-aided design, computer-aided manufacturing, computer-aided engineering and printed circuit board design software application, developed by Autodesk. It is available for Windows and macOS, with simplified applications available for Android and iOS
 
-Fusion 360 Autodesk education lisence was used for learning purposes only.
+Fusion 360 Autodesk education licence was used for learning purposes only.
 
 ### Ultimaker Cura
 > Cura is an open source slicing application for 3D printers. It was created by David Braam who was later employed by Ultimaker, a 3D printer manufacturing company, to maintain the software. Cura is available under LGPLv3 license
 
+Setting for PLA was adjusted to fit the selected filament brand and type.
 ### Creality Ender 3V2
 - Printer used is stock model with little modifications
 > https://www.creality.com/products/ender-3-v2-3d-printer-csco
